@@ -1,0 +1,486 @@
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10003, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10065, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10093, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10924, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11496, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11547, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11775, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10789, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10658, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11019, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10505, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11492, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11098, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10652, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10786, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10782, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11216, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10835, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11144, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10839, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11241, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11208, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10901, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10878, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11248, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11793, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11361, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11002, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10554, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11317, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10889, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11213, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11289, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11049, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11341, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11405, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11183, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11340, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10816, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11377, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11983, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11123, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10578, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10850, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11179, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11150, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10821, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11005, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11251, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10855, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11148, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11522, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11397, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11897, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11035, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11140, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11072, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11661, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11822, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11685, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11024, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11956, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11245, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11944, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11418, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11708, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11076, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11585, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11281, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11943, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11808, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11041, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10062, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11646, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10841, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10576, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10948, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11576, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10795, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11461, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11247, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10063, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11505, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11301, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11045, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11817, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11197, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11404, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11877, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11735, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11699, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11850, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10703, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11630, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10334, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11573, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10009, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11475, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10483, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10346, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10245, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10263, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11722, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11876, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10487, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10146, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10232, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10303, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11694, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10211, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10678, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10240, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11967, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10467, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10742, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10536, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11665, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11780, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10780, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11707, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11800, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11732, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11453, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10333, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10163, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10166, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11481, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11765, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11538, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11958, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11985, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11438, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10230, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10265, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11167, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10313, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10310, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10329, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10383, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10527, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11927, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10384, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10170, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10347, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10320, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11991, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10156, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10568, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10407, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11572, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10125, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11745, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10421, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11574, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10414, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10204, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10304, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 11872, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10442, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10123, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10138, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 10173, '', 'null', 'null', '', '');
