@@ -334,6 +334,6 @@ const exceptList: number[] = [
 Array.from({ length: 2000 }).forEach(async (i, index) => {
   //8000 진행중
   //10000 진행중
-  const id = index + 1 + 10000;
+  const id = index + 1 + 12000;
   if (!exceptList.includes(id)) await getProduct(id);
 });
