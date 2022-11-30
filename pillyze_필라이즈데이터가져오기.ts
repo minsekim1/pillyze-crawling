@@ -132,6 +132,8 @@ const exceptList: number[] = [
   8874, 8875, 8876, 8879, 8883, 8884, 8887, 8888, 8904, 8933, 8944, 8955, 8956, 8969, 8978, 8981, 8982, 8984, 8991,
 ];
 Array.from({ length: 2000 }).forEach(async (i, index) => {
-  const id = index + 1 + 8000;
+  //8000 진행중
+  //10000 진행중
+  const id = index + 1 + 10000;
   if (!exceptList.includes(id)) await getProduct(id);
 });
