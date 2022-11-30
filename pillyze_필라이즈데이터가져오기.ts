@@ -1479,6 +1479,6 @@ const exceptList: number[] = [
   25988, 25989, 25990, 25991, 25992, 25993, 25994, 25995, 25996, 25997, 25998, 25999, 26000,
 ];
 Array.from({ length: 4000 }).forEach(async (i, index) => {
-  const id = index + 1 + 12000;
+  const id = index + 1 + 16000;
   if (!exceptList.includes(id) && id < 23201) await getProduct(id);
 });
