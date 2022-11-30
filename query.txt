@@ -1,0 +1,87 @@
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/20k/23ba2ced-20405/1000', '경방 뉴맨 올인원', null, 20405, '경방신약', '남성 건강, 노화  항산화, 면역 기능', '피부 재생', '하루에 2회, 1회당 1포씩 드세요', '건강기능식품');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/20k/201d3b3d-20367/1000', '트리어드 그린', null, 20367, '셀로닉스', '콜레스테롤 개선, 혈관 건강, 혈중 중성지방 개선', 'null', '하루에 1회, 1회당 1캡슐씩 드세요', '건강기능식품');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/20k/a6ac8aae-20810/1000', '솔빛투', null, 20810, '솔빛피앤에프', '노화  항산화', 'null', '하루에 3회, 1회당 1캡슐씩 드세요', '건강기능식품');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/20k/05508060-20291/1000', '비타플러스 미네랄', null, 20291, '러셀바이오메디', '멀티비타민', 'null', '하루에 1회, 1회당 1정씩 드세요', '건강기능식품');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/21k/4cb58cbb-21235/1000', '마일드 비타민 C', null, 21235, '젤바이오', '면역 기능, 뼈 건강, 피부 건강', '혈액 생성, 잇몸 건강', '하루에 1회, 1회당 최소 1캡슐 - 최대 2캡슐까지 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/20k/00b83412-20646/1000', '맥스 아르기닌 6000', null, 20646, '하루건강엔', '피로 개선', '운동 능력 개선, 혈액순환 개선', '하루에 1회, 1회당 1포씩 드세요', '건강기능식품 미인증');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/21k/de6a1e99-21290/1000', '덴디돌 플러스', null, 21290, '중외제약', '치아 건강', '뼈 건강, 긴장 완화, 여성 갱년기, 잇몸 건강', '하루에 1회, 1회당 1정씩 드세요', '건강기능식품');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/21k/a888d5c0-21699/1000', '마이칼디정', null, 21699, '명문제약', '뼈 건강', '혈액 생성, 호모시스테인 균형', '하루에 2회, 1회당 1정씩 드세요', '일반의약품');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/21k/09138d84-21188/1000', '메가프로바이오틱스', null, 21188, '메디스턴', '장 건강', '유익균-유해균 균형', '하루에 1회, 1회당 1캡슐씩 드세요', '건강기능식품');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/20k/69c1c3d3-20417/1000', '프로바이오틱스 우먼스 헬시 밸런스', null, 20417, '컬처렐', '배변 활동 원활, 장 건강, 질내 유익균-유해균 균형', 'null', '하루에 1회, 1회당 1캡슐씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/21k/740182aa-21329/1000', '락토핏 슬림', null, 21329, '종근당건강', '유익균-유해균 균형, 장 건강, 체지방 감소', '탄수화물-지방 전환 억제', '하루에 2회, 1회당 1포씩 250ml의 물에 타서 충분히 섞은 후 드세요', '건강기능식품');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/20k/11f57a64-20871/1000', '석류 콜라겐 분말', null, 20871, '내몸애365', '피부 건강', 'null', '하루에 1회, 1회당 최소 1g - 최대 2g까지 드세요', '건강기능식품 미인증');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/21k/84d24d77-21755/1000', '루테인', null, 21755, '뉴트립', '눈 건강, 황반색소 유지', 'null', '하루에 1회, 1회당 1캡슐씩 드세요', '건강기능식품');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/21k/22847ba2-21619/1000', '에브리어트', null, 21619, '비스테디', '체지방 감소', '지방 대사 촉진', '하루에 1회, 1회당 1팩씩 드세요', '건강기능식품');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/21k/d5ac07d2-21948/1000', '슈퍼 멀티비타민', null, 21948, '메이준생활건강', '멀티미네랄', '안구 건조, 야맹증, 피부 재생', '하루에 1회, 1회당 1포씩 입안에서 녹여 드세요', '건강기능식품');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/21k/59b8609b-21721/1000', '프로바이오틱스 500억', null, 21721, '헬시바이옴', '배변 활동 원활, 유익균-유해균 균형, 장 건강', 'null', '하루에 1회, 1회당 1캡슐씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/21k/52149248-21312/1000', '예뻐효', null, 21312, '바이오로제트', '소화 기능 보조', 'null', '하루에 1회, 1회당 1포씩 드세요', '건강기능식품 미인증우수 제조');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/20k/0ea4f0e7-20697/1000', '유한m 리드웰 알티지 오메가3 1300', null, 20697, '유한메디카', '눈 건강, 혈액순환 개선, 혈중 중성지방 개선', 'null', '하루에 1회, 1회당 1캡슐씩 드세요', '건강기능식품');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/21k/446e4d0d-21666/1000', '구루치온정', null, 21666, '영풍제약', '노화  항산화', 'null', '
+       하루에 최소 1회 - 최대 3회까지
+       1회당 최소0.5정 - 최대 1정까지 드세요
+      ', '일반의약품');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/21k/1d7f0d9f-21298/1000', '퍼펙트 콜라겐 5000', null, 21298, '헬시그루', '피부 건강', 'null', '하루에 1회, 1회당 1병씩 드세요', '건강기능식품 미인증');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/21k/cc75f57f-21344/1000', '티이아이 프로바이오틱스', null, 21344, '한국티이아이', '배변 활동 원활, 유익균-유해균 균형, 장 건강', 'null', '하루에 1회, 1회당 1캡슐씩 드세요', '건강기능식품');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/21k/2f62cc47-21773/1000', '딸기퐁당 배도라지 농축액', null, 21773, '루킨', '호흡기 건강', 'null', '하루에 1회, 1회당 1포씩 드세요', '건강기능식품 미인증');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/21k/5bffd349-21370/1000', '마그로민골드프리미엄연질캡슐', null, 21370, '광동제약', '근육신경 안정, 멀티비타민', '수면질 개선, 혈액순환 개선', '하루에 2회, 1회당 1캡슐씩 드세요', '일반의약품');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/21k/23de683d-21947/1000', '알티지 오메가3 루테인 플러스', null, 21947, '네이처드림', '눈 건강, 혈액순환 개선, 혈중 중성지방 개선', '안구 건조, 야맹증, 황반색소 유지, 우울감 개선, 생리전증후군  생리통 개선, 피부 재생, 중성지방 합성 억제', '하루에 1회, 1회당 1캡슐씩 드세요', '건강기능식품');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/20k/6783342a-20567/1000', '조아 눈건강', null, 20567, '조아제약', '눈 건강, 눈 피로감 개선, 황반색소 유지', '눈 피로감, 안구 건조, 야맹증, 피부 재생', '하루에 1회, 1회당 1캡슐씩 드세요', '건강기능식품');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/20k/39f3a63c-20459/1000', '멀티비타민 포 맨', null, 20459, '뉴트리코스트', '멀티미네랄, 멀티비타민', '혈액 생성, 피부 재생, 호모시스테인 균형', '하루에 1회, 1회당 2캡슐씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/20k/43a0ad97-20692/1000', '플럼잇 아르기닌', null, 20692, '바이오로제트', '면역 기능, 피로 개선', '혈액 생성, 운동 능력 개선, 피부 재생, 혈액순환 개선, 호모시스테인 균형', '하루에 최소 1회 - 최대 2회까지 1포씩 350~500ml의 물에 타서 드세요', '건강기능식품 미인증');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/21k/d86a0957-21944/1000', '비타마스정', null, 21944, '미래제약', '멀티비타민', '담즙 분비 촉진, 수면질 개선, 피부 재생, 혈액순환 개선', '하루에 1회, 1회당 1정씩 드세요', '일반의약품');
