@@ -76,7 +76,7 @@ const getProduct = (pillyze_id: number) => {
             writeQuery(
               insertForm({
                 product_image,
-                product_name,
+                product_name: product_name.replace(/[']/g, "\\'"),
                 similar_product_id: null,
                 pillyze_id,
                 product_brand,
