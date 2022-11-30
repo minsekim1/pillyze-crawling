@@ -78,7 +78,7 @@ const getProduct = (pillyze_id: number) => {
               product_name: product_name.replace(/[']/g, "\\'"),
               similar_product_id: null,
               pillyze_id,
-              product_brand,
+              product_brand: product_brand.replace(/[']/g, "\\'"),
               main_function,
               sub_function,
               eat_method,
@@ -124,8 +124,14 @@ VALUES('${product_image}', '${product_name}', ${similar_product_id}, ${pillyze_i
 // getProduct(30000);
 const exceptList: number[] = [14000];
 Array.from({ length: 2000 }).forEach(async (i, index) => {
-  //8000 진행중
-  //10000 진행중
-  const id = index + 1 + 18000;
+  //14000 진행중
+  //16000 진행중
+  //18000 진행중
+
+  //20000 진행중
+  //22000 진행중
+  //24000 진행중
+
+  const id = index + 1 + 20000;
   if (!exceptList.includes(id)) await getProduct(id);
 });
