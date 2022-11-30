@@ -132,6 +132,6 @@ Array.from({ length: 2000 }).forEach(async (i, index) => {
   //22000 진행중
   //24000 진행중
 
-  const id = index + 1 + 20000;
+  const id = index + 1 + 22000;
   if (!exceptList.includes(id)) await getProduct(id);
 });
