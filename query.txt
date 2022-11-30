@@ -1,0 +1,735 @@
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12024, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/ef8a6a25-12428/1000', '얼라이브 데일리 에너지', null, 12428, '네이처스웨이', '멀티미네랄, 멀티비타민', '피부 손상 보호, 피부 재생, 혈액 생성, 혈액순환 개선', '하루에 1회, 1회당 1정씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/51175997-12789/1000', '키드니 클렌즈', null, 12789, '나우푸드', '요로 건강', 'null', '하루에 1회, 1회당 2정씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/b744788a-12938/1000', '쏘팔메토 베리', null, 12938, '솔가', '남성 건강', 'null', '하루에 최소 1회 - 최대 3회까지 1캡슐씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12055, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/0e66720f-12607/1000', '리얼 팜 토코트리에놀 50mg', null, 12607, '나우푸드', '노화  항산화', 'null', '하루에 최소 1회 - 최대 2회까지 1정씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/856807d6-12086/1000', '마그네슘 비스글리시네이트', null, 12086, '쏜리서치', '근육신경 안정, 피로 개선', '긴장완화, 수면질 개선, PMS 개선', '하루에 최소 1회 - 최대 2회까지 1스쿱씩 240ml 이상의 물에 타서 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12118, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12229, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12021, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12121, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12411, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12403, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12173, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12115, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13068, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13080, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13097, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12169, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12123, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13022, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12174, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12190, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12237, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12508, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12232, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12262, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12108, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12490, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12647, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12807, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12600, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12685, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/a286cfbd-12894/1000', '마카 500mg', null, 12894, '나트롤', '남성 건강, 피로 개선', 'null', '하루에 1회, 1회당 1캡슐씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12097, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12015, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12016, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/2faca98a-12974/1000', '크랜베리 with 프로바이오틱', null, 12974, '메이슨내추럴', '요로 건강, 장 건강', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12017, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12757, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12617, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12089, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12884, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12662, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12574, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12557, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12469, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12419, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12366, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12459, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12988, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12435, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12937, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12649, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12637, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12570, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12312, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12763, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12921, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12466, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12536, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13072, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12732, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12443, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12283, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12522, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12397, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12347, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12290, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12861, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12529, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12890, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12467, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12982, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13075, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12663, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12610, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12655, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12847, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12765, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13608, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12888, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13261, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13292, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12987, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13662, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13321, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13315, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13415, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13231, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12241, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12679, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12189, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12070, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12177, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12958, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12345, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12759, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12668, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12562, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12183, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12575, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12719, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12813, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12093, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12270, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12250, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12483, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12378, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12359, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13495, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/23dbea56-13694/1000', '루즈 웨이트(카페인 무함유)', null, 13694, '하이드록시컷', '체지방 감소', 'null', '하루에 2회, 1회당 2캡슐씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/96c850f0-13536/1000', 'K2 본&카디오베스큘러 50mcg', null, 13536, '스완슨', '혈액순환 개선, 뼈 건강', 'null', '하루에 1회, 1회당 1캡슐씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12845, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/3a24d021-13659/1000', '다이제스트 키토', null, 13659, '엔자이메디카', '위 건강', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13324, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12947, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13638, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13115, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13570, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13327, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13523, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13496, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13146, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13264, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13766, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13282, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13709, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13307, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13446, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13673, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13352, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13348, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13861, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13996, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13368, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13812, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13147, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13924, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12996, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13383, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13621, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13511, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13890, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12729, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/ae54773c-12564/1000', '자로우 도필러스 EPS 500억 30캡슐', null, 12564, '자로우포뮬라', '장 건강', '유익균-유해균 균형', '하루에 1회, 1회당 1캡슐씩 물이나 주스와 함께 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12827, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13725, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13592, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13464, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13168, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13235, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13359, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13479, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13305, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13290, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13346, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13516, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13336, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/126e25fe-13852/1000', 'PeptACE 피쉬 펩타이드 500mg', null, 13852, '내추럴팩터스', '혈압 조절', 'null', '하루에 최소 1회 - 최대 3회까지 1정씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13156, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13879, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13958, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13877, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13141, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13341, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13048, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/62388ec8-13881/1000', '인테스티널 드라우닝 포뮬러 260캡슐', null, 13881, '헬스포스슈퍼푸드', '장 건강', '배변 활동 원활', '하루에 1회, 1회당 최소 3캡슐 - 최대 10캡슐까지 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/5fa31989-13838/1000', '아세틸콜린 브레인 푸드', null, 13838, 'Natural Stacks', '두뇌 건강', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/268d8378-13794/1000', 'Longevity 우먼', null, 13794, '퓨어에센스', '여성 건강', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13635, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13889, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12716, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13934, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13874, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13871, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13857, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13984, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13574, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13301, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12613, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13160, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/c6b04872-13102/1000', '포티파이 우먼스 500억', null, 13102, '네이처스웨이', '여성 건강', '유익균-유해균 균형', '하루에 1회, 1회당 1캡슐씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13688, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12992, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13929, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13458, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13891, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12975, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/7303ef07-13674/1000', '클렌즈 스마트', null, 13674, '리뉴라이프', '소화 기능 보조, 체지방 감소', 'null', '하루에 1회, 1회당 최소 1캡슐 - 최대 2캡슐까지 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12869, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/666efa8f-13764/1000', '모두콜', null, 13764, 'EPI', '혈관 건강', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13995, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13798, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13772, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13059, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13994, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/482c5682-12073/1000', '데일리 프로바이오틱 구미 스트로베리', null, 12073, '쉬프', '장 건강', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/80d2b8bb-13865/1000', '아밀로반', null, 13865, '머쉬룸위즈덤', '두뇌 건강', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/30dd62ea-12110/1000', '폴릭애시드 B6 & B12', null, 12110, '메이슨내추럴', '혈액순환 개선', '혈액 생성, 호모시스테인 균형', '하루에 1회, 1회당 1정씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/a4a389c3-12997/1000', '폴릭애시드 구미 젤리', null, 12997, '솔루메브', '태아 건강, 혈관 건강', '혈액 생성, 호모시스테인 균형', '하루에 1회, 1회당 1구미씩 씹어서 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/a7354082-12549/1000', '진생 & 로열젤리', null, 12549, 'Imperial Elixir', '노화  항산화, 면역 기능', 'null', '하루에 최소 1회 - 최대 2회까지 1병씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/b4d280a0-13090/1000', '블랙씨드 오일', null, 13090, 'Heritage Store', '노화  항산화, 면역 기능', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/7d807e03-12664/1000', '커큐민 엘리트', null, 12664, '라이프익스텐션', '노화  항산화, 두뇌 건강, 면역 기능', '관절 건강, 중성지방 합성 억제, 콜레스테롤 합성 조절', '하루에 1회, 1회당 1정씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13183, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12698, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12777, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13043, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13078, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/0ce5cb7f-13403/1000', '에피코르 500mg', null, 13403, '캘리포니아골드뉴트리션', '면역 기능, 호흡기 건강', '소화 기능 보조, 유익균-유해균 균형, 인슐린 작용 개선', '하루에 1회, 1회당 1캡슐씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/39a45ba4-13923/1000', '수퍼 그린티', null, 13923, '네이처스엔서', '노화  항산화', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/93f31cd9-12908/1000', '네추럴 시리즈 저먼초콜릿케이크', null, 12908, '뉴트렉스리서치', '체중 관리 보충제', '배변 활동 원활, 체액 농도 밸런스', '하루에 1회, 1회당 1스쿱씩 180ml 물에 섞어서 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/480fa711-13630/1000', '파워 틴', null, 13630, '네이처스플러스', '멀티미네랄, 멀티비타민, 어린이 성장', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13094, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13739, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13246, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13505, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/ebeaa669-12389/1000', 'Loving Energy 아드레널 서포트', null, 12389, '바이오레이', '긴장 완화', 'null', '하루에 최소 1회 - 최대 2회까지 1방울씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 12835, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13690, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13027, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/5b60dea0-12035/1000', '비 프로폴리스 캡슐 250mg', null, 12035, '컨트리라이프', '노화  항산화, 면역 기능', 'null', '하루에 1회, 1회당 2캡슐씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/c0113b24-12569/1000', '베타 알라닌 파우더 500g', null, 12569, '나우푸드', '근육신경 안정, 피로 개선', 'null', '하루에 최소 3회 - 최대 4회까지 0.5티스푼씩 230ml 물에 섞어서 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/439e9b90-12650/1000', '리페어 골드', null, 12650, '엔자이메디카', '관절 건강', 'null', '하루에 최소 2회 - 최대 3회까지 2캡슐씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/e0c082bc-12062/1000', '히알루론산 100mg', null, 12062, '레이크에비뉴뉴트리션', '피부 건강', 'null', '하루에 1회, 1회당 1정씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/07ce0214-13209/1000', 'EpiCor with 비타민D3 500mg', null, 13209, '소스내추럴', '면역 기능, 뼈 건강', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/599ed150-13711/1000', '오레가노 오일', null, 13711, '네이처스웨이', '면역 기능', 'null', '하루에 1회, 1회당 1정씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/8629a689-12633/1000', '아스타잔틴 4mg', null, 12633, '라이프익스텐션', '눈 건강', '눈 피로감', '하루에 최소 1회 - 최대 2회까지 1정씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/a242b862-13020/1000', '마이크로 리포소멀 C', null, 13020, '뉴트리콜로지', '노화  항산화, 면역 기능', '혈액 생성, 잇몸 건강, 피부 재생', '하루에 최소 1회 - 최대 3회까지 1티스푼씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/3a6ae0c9-12409/1000', '레스베라트롤 컴플렉스 500mg', null, 12409, '레이크에비뉴뉴트리션', '노화  항산화, 혈관 건강', '혈액순환 개선', '하루에 1회, 1회당 1캡슐씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/617f3eba-12733/1000', '글루코사민 콘드로이틴 히알루론산', null, 12733, '솔라레이', '관절 건강', 'null', '하루에 1회, 1회당 3캡슐씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/1ddedeaf-12050/1000', '알칼라인 미네랄 파우더', null, 12050, 'pHion Balance', '멀티미네랄', '긴장완화, 수면질 개선, PMS 개선, 체액 농도 밸런스', '하루에 1회, 1회당 1티스푼씩 물 240ml에 섞어서 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/7a723cd5-13475/1000', '갈릭 오일 150캡슐', null, 13475, '스포츠리서치', '혈관 건강', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/12k/71b218a6-12066/1000', '매스틱 검', null, 12066, '자로우포뮬라', '위 건강', 'null', '하루에 1회, 1회당 2캡슐씩 물과 함께 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13422, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13799, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('null', '', null, 13987, '', 'null', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/b74ddf8f-13955/1000', '터메릭 538mg', null, 13955, '네이처스바운티', '노화  항산화', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/f6eecb86-13637/1000', 'Provinal 오메가-7', null, 13637, '라이프익스텐션', '혈액순환 개선, 혈중 중성지방 개선', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/21d90cf4-13200/1000', '베타인 HCL 펩신 & 젠티안 비터스', null, 13200, '닥터스베스트', '위 건강', '소화 기능 보조', '하루에 3회, 1회당 1캡슐씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/51763b48-13855/1000', '터메릭', null, 13855, '허브팜', '노화  항산화', 'null', '', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/78dffc9d-13543/1000', '우먼 55+ 멀티비타민', null, 13543, '인네이트리스폰스포뮬라', '멀티비타민, 멀티미네랄', '뼈 건강, 칼슘 흡수 촉진, 긴장완화, 수면질 개선, 피부 재생, 혈액 생성, 혈액순환 개선, 호모시스테인 균형, 인슐린 작용 개선', '하루에 1회, 1회당 2정씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/7c02df53-13684/1000', 'L-트립토판 500mg 60캡슐', null, 13684, '소스내추럴', '수면질 개선, 긴장 완화', 'null', '하루에 3회, 1회당 1캡슐씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/8f824066-13565/1000', '비타민D3 with 비타민K2 MK-7 25000IU', null, 13565, '메타볼릭메인터넌스', '면역 기능, 뼈 건강', '칼슘 흡수 촉진', '하루에 1회, 1회당 1캡슐씩 드세요', '');
+INSERT IGNORE INTO F_DAYWORKS.product_pillyze
+(product_image, product_name, similar_product_id, pillyze_id, product_brand, main_function, sub_function, eat_method, is_food)
+VALUES('https://cdn.pillyze.io/products/v1/13k/33332efd-13052/1000', '헬시 헤어 스킨 네일', null, 13052, 'Rejuvicare', '모발손톱 건강, 피부 건강', '피부 재생', '하루에 1회, 1회당 1테이블스푼씩 드세요', '');
