@@ -23,7 +23,9 @@ const getProduct = (pillyze_id: number) => {
           // main_function;
           // sub_function;
           // eat_method;
-
+          console.log($)
+          console.log(body)
+          console.log($(body));
           const product_image = $(
             "body > div > div.all-wrap-in.with-top-bar.all-wrap-in-020-002 > div.new-wide-wrap.new-wide-wrap-020 > div.new-wide-main.new-wide-main-020-002 > div.section.section3-1.section3-1-002 > div > img"
           ).attr("src");
