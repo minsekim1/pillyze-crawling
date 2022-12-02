@@ -845,6 +845,10 @@ const exceptList: number[] = [
 
 let id = 0;
 const timer = setInterval(() => {
+  console.log("id:", id);
   if (!exceptList.includes(id) && id < 28000) getProduct(id++);
-  if (id == 1000) clearInterval(timer);
+  if (id == 1000) {
+    console.log("Done");
+    clearInterval(timer);
+  }
 }, 200);
