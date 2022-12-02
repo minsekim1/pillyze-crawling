@@ -3,6 +3,7 @@ import request from "request";
 import { doesNotThrow } from "assert";
 import fs from "fs";
 
+const { log } = console;
 const getProduct = (pillyze_id: number) => {
   return new Promise((resolve) => {
     request(
@@ -63,13 +64,13 @@ const getProduct = (pillyze_id: number) => {
             }
           });
 
-          // log(product_image);
-          // log(product_name);
-          // log(isFood);
-          // log(product_brand);
-          // log(eat_method);
-          // log(main_function);
-          // log(sub_function);
+          log(product_image);
+          log(product_name);
+          log(is_food);
+          log(product_brand);
+          log(eat_method);
+          log(main_function);
+          log(sub_function);
 
           writeQuery(
             insertForm({
@@ -842,8 +843,8 @@ const exceptList: number[] = [
   23198, 23199, 23200,
 ];
 
-const len = 10;
-let id = 0;
+const len = 1;
+let id = 23;
 const timer = setInterval(() => {
   console.log("id:", id);
   if (!exceptList.includes(id) && id < 28000) getProduct(id++);
