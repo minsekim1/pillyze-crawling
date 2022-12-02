@@ -3,7 +3,6 @@ import request from "request";
 import { doesNotThrow } from "assert";
 import fs from "fs";
 
-//#region
 const getProduct = (pillyze_id: number) => {
   return new Promise((resolve) => {
     request(
@@ -843,11 +842,12 @@ const exceptList: number[] = [
   23198, 23199, 23200,
 ];
 
-let id = 4000;
+const len = 10;
+let id = 0;
 const timer = setInterval(() => {
   console.log("id:", id);
   if (!exceptList.includes(id) && id < 28000) getProduct(id++);
-  if (id == 1000) {
+  if (id == len) {
     console.log("Done");
     clearInterval(timer);
   }
