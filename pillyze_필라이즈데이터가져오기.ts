@@ -844,11 +844,12 @@ const exceptList: number[] = [
 ];
 
 const len = 1;
-let id = 23;
+const init = 23;
+let id = init;
 const timer = setInterval(() => {
   console.log("id:", id);
   if (!exceptList.includes(id) && id < 28000) getProduct(id++);
-  if (id == len) {
+  if (id == init + len) {
     console.log("Done");
     clearInterval(timer);
   }
