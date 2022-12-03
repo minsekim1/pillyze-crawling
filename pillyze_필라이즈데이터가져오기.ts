@@ -3,14 +3,43 @@ import request from "request";
 import { doesNotThrow } from "assert";
 import fs from "fs";
 
+// const { CrawlingAPI } = require('proxycrawl');
+// const Normaltoken = "DpNsKuj6sVP9vFshRnGv6Q";
+// const JavaScripttoken = "V0XHWPiatThV4aJVOQBq-w";
+// const api = new CrawlingAPI({ token: Normaltoken });
+
+// api
+//   .get(
+//     `https://www.pillyze.com/products/${2}/%EB%A9%80%ED%8B%B0%EB%B9%84%ED%83%80%EB%AF%BC-%EA%B5%AC%EB%AF%B8`
+//   )
+//   .then((response:any) => {
+//     if (response.statusCode === 200 && response.pcStatus === 200) {
+//       console.log(response.body);
+//     }
+//   })
+//   .catch((error:any) => console.error);
+
 const { log } = console;
 const getProduct = (pillyze_id: number) => {
   return new Promise((resolve) => {
     request(
-      `https://www.pillyze.com/products/${pillyze_id}/%EB%A9%80%ED%8B%B0%EB%B9%84%ED%83%80%EB%AF%BC-%EA%B5%AC%EB%AF%B8`,
+      `https://www.pillyze.com/products/${pillyze_id}/%ED%9E%88`,
+      {
+        headers: {
+          "accept-encoding": "deflate, br",
+          "accept-language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
+          "cache-control": "max-age=0",
+          dnt: 1,
+          "sec-ch-ua-platform": "Windows",
+          "sec-fetch-dest": "document",
+          "user-agent":
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+        },
+      },
       (error, response, body) => {
         if (error) throw error;
         let $ = cheerio.load(body);
+
         try {
           // id;
           // product_image;
@@ -23,9 +52,7 @@ const getProduct = (pillyze_id: number) => {
           // main_function;
           // sub_function;
           // eat_method;
-          console.log($)
-          console.log(body)
-          console.log($(body));
+
           const product_image = $(
             "body > div > div.all-wrap-in.with-top-bar.all-wrap-in-020-002 > div.new-wide-wrap.new-wide-wrap-020 > div.new-wide-main.new-wide-main-020-002 > div.section.section3-1.section3-1-002 > div > img"
           ).attr("src");
@@ -67,7 +94,7 @@ const getProduct = (pillyze_id: number) => {
           });
 
           log(product_image);
-          log(product_name);
+          log("product_name:", product_name);
           log(is_food);
           log(product_brand);
           log(eat_method);
@@ -846,12 +873,12 @@ const exceptList: number[] = [
 ];
 
 const len = 1;
-const init = 23;
+const init = 1;
 let id = init;
 const timer = setInterval(() => {
   console.log("id:", id);
   if (!exceptList.includes(id) && id < 28000) getProduct(id++);
-  if (id == init + len) {
+  if (id >= init + len - 1) {
     console.log("Done");
     clearInterval(timer);
   }
